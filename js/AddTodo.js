@@ -2,7 +2,6 @@ import React, {
   Component,
   PropTypes
 } from 'react'
-
  // assas 
 export default class AddTodo extends Component {
   render() {
@@ -29,5 +28,4 @@ AddTodo.propTypes = {
   onAddClick: PropTypes.func.isRequired
 }
 
-
-//测试 代码 、侧缝侧耳
+ 
